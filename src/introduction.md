@@ -51,20 +51,12 @@
       <p><i> 2014-2019 </i></p>
     </div>
   </div>
-  <div style="float: right; width: 70%;">
+  <div style="float: right; width: 70%; text-indent: 50px;">
     <div align="left">
       <h2> EXPERIENCE </h2>
       <p><b> Embedded Controller </b></p>
-      <div style="overflow: auto; text-indent: 50px;">
-        <div style="float: left; width: 10%;">
-          <p> 💻 </p>
-          <p> 🔲 </p>
-        </div>
-        <div style="float: right; width: 90%;">
-          <p> HP, SAMSUNG, TWINHEAD </p>
-          <p> iTE, Microchip, Nuvoton, Aspeed </p>
-        </div>
-      </div>
+      <p> HP, SAMSUNG, TWINHEAD </p>
+      <p> iTE, Microchip, Nuvoton, Aspeed </p>
       <p><b> Processor </b></p>
       <p style="text-indent: 50px;"> MCS-51, ARM cortex-M, RISC-V Andes </p>
       <p><b> RTOS </b></p>
@@ -72,16 +64,16 @@
       <h2> EXPERTISE </h2>
       <div style="overflow: auto">
         <div style="float: left; width: 50%;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yimjiajun&langs_count=5&layout=compact&hide=css,javascript,html&theme=transparent" frameborder="0" scrolling="no" height="150">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yimjiajun&langs_count=5&layout=compact&hide=css,javascript,html&theme=transparent" frameborder="0">
         </div>
         <div style="float: right; width: 50%;">
-          <img src="https://github-readme-stats.vercel.app/api?username=yimjiajun&show_icons=true&theme=transparent" alt="JiaJun Yim's GitHub stats" height="150">
+          <img src="https://github-readme-stats.vercel.app/api?username=yimjiajun&show_icons=true&theme=transparent" alt="JiaJun Yim's GitHub stats">
         </div>
       </div>
       <h2> FAVORITE </h2>
-      <a href="https://github.com/yimjiajun/neovim">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yimjiajun&repo=neovim&theme=transparent"  height="150"/>
-      </a>
+    </div>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yimjiajun&repo=neovim&theme=transparent">
     </div>
   </div>
 </div>
