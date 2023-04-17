@@ -41,6 +41,15 @@
       <p><i> Software Engineering </i></p>
       <p><i> 2019-present </i></p>
     </div>
+    <div align="left">
+      <h2> EDUCATION </h2>
+      <p><b> National Taipei University of Technology </b></p>
+      <p><i> M.A of Science in Electrical Engineering </i></p>
+      <p><i> 2021-present </i></p>
+      <p><b> Fu Jen Catholic University </b></p>
+      <p><i> B.A of Science in Electrical Engineering </i></p>
+      <p><i> 2014-2019 </i></p>
+    </div>
   </div>
   <div style="float: right; width: 70%;">
   </div>
