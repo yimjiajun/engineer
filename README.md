@@ -69,6 +69,19 @@
       <p style="text-indent: 50px;"> MCS-51, ARM cortex-M, RISC-V Andes </p>
       <p><b> RTOS </b></p>
       <p style="text-indent: 50px;"> FreeRTOS, Zephyr RTOS </p>
+      <h2> EXPERTISE </h2>
+      <div style="overflow: auto">
+        <div style="float: left; width: 60%;">
+          <iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=yimjiajun&langs_count=5&layout=compact&hide=css,javascript,html" frameborder="0" scrolling="no" height="150"></iframe>
+        </div>
+        <div style="float: right; width: 40%;">
+          <img src="https://github-readme-stats.vercel.app/api?username=yimjiajun&show_icons=true&theme=transparent" alt="JiaJun Yim's GitHub stats" height="150">
+        </div>
+      </div>
+      <h2> FAVORITE </h2>
+      <a href="https://github.com/yimjiajun/neovim">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yimjiajun&repo=neovim"  height="150"/>
+      </a>
     </div>
   </div>
 </div>
