@@ -52,5 +52,23 @@
     </div>
   </div>
   <div style="float: right; width: 70%;">
+    <div align="left">
+      <h2> EXPERIENCE </h2>
+      <p><b> Embedded Controller </b></p>
+      <div style="overflow: auto; text-indent: 50px;">
+        <div style="float: left; width: 10%;">
+          <p> 💻 </p>
+          <p> 🔲 </p>
+        </div>
+        <div style="float: right; width: 90%;">
+          <p> HP, SAMSUNG, TWINHEAD </p>
+          <p> iTE, Microchip, Nuvoton, Aspeed </p>
+        </div>
+      </div>
+      <p><b> Processor </b></p>
+      <p style="text-indent: 50px;"> MCS-51, ARM cortex-M, RISC-V Andes </p>
+      <p><b> RTOS </b></p>
+      <p style="text-indent: 50px;"> FreeRTOS, Zephyr RTOS </p>
+    </div>
   </div>
 </div>
