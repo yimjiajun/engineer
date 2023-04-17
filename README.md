@@ -32,6 +32,15 @@
         <p> yimjiajun@icloud.com </p>
       </div>
     </div>
+    <div align="left">
+      <h2> CAREER </h2>
+      <div style="width: 150px; height: 50px; overflow: hidden;" >
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/American_Megatrends_(logo).svg/440px-American_Megatrends_(logo).svg.png" alt="Company Logo" style="width: 100%;">
+      </div>
+      <p><b> American Megatrends LLC </b></p>
+      <p><i> Software Engineering </i></p>
+      <p><i> 2019-present </i></p>
+    </div>
   </div>
   <div style="float: right; width: 70%;">
   </div>
