@@ -72,7 +72,7 @@
       <h2> EXPERTISE </h2>
       <div style="overflow: auto">
         <div style="float: left; width: 60%;">
-          <iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=yimjiajun&langs_count=5&layout=compact&hide=css,javascript,html" frameborder="0" scrolling="no" height="150"></iframe>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yimjiajun&langs_count=5&layout=compact&hide=css,javascript,html" frameborder="0" scrolling="no" height="150">
         </div>
         <div style="float: right; width: 40%;">
           <img src="https://github-readme-stats.vercel.app/api?username=yimjiajun&show_icons=true&theme=transparent" alt="JiaJun Yim's GitHub stats" height="150">
