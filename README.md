@@ -13,3 +13,26 @@
     </div>
   </div>
 </div>
+<div style="overflow: auto">
+  <div style="float: left; width: 30%;">
+    <div align="left">
+      <h2> INFO </h2>
+    </div>
+    <div style="overflow: auto">
+      <div style="float: left; width: 20%;">
+        <p>🙍</p>
+        <p>🌏</p>
+        <p>🏠</p>
+        <p>📧</p>
+      </div>
+      <div style="float: right; width: 80%;">
+        <p> Yim Jia Jun 嚴嘉俊 </p>
+        <p> Malaysian </p>
+        <p> New Taipei City, Taiwan </p>
+        <p> yimjiajun@icloud.com </p>
+      </div>
+    </div>
+  </div>
+  <div style="float: right; width: 70%;">
+  </div>
+</div>
