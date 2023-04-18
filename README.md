@@ -17,7 +17,7 @@
   <h3> Processor </h2>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/KL_Intel_P8051.jpg/800px-KL_Intel_P8051.jpg" alt="MCS-51 logo" width="20%" height="50%">
   <img src="https://www.arm.com/blogs/blueprint/wp-content/uploads/2022/11/Cortex-M-logo.png" alt="ARM cortex-m logo" width="20%" height="50%">
-  <img src="https://www.andestech.com/Andes_RISC-V_CON_2021_TW/image/RISC-V%20CON%20logo.png" alt="RISV-V andes logo" width="20%" height="50%">
+  <img src="https://media.zenfs.com/en/globenewswire.com/6329b299d24a6812eb530087cb0b2fde" alt="RISV-V andes logo" width="20%" height="50%">
   <h3> RTOS </h3>
   <img src="https://www.freertos.org/fr-content-src/uploads/2021/03/FreeRTOS-logo-v1-5000px-wide-1-scaled-e1614723466251.jpg" alt="FreeRTOS logo" width="20%" height="50%">
   <img src="https://www.microcontrollertips.com/wp-content/uploads/2018/09/Fig-2-Zephyr-Logo.png" alt="zephyr RTOS logo" width="20%" height="50%">
